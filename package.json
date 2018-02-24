@@ -2,7 +2,7 @@
 {
   "name": "react-native-net-request",
   "version": "1.0.0",
-  "description": "",
+  "description": "A react native network API based on the Fetch Standard",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,8 +10,8 @@
   "keywords": [
     "react-native"
   ],
-  "author": "",
-  "license": "",
+  "author": "maxswarewolf",
+  "license": "MIT",
   "peerDependencies": {
     "react-native": "^0.41.2",
     "react-native-windows": "0.41.0-rc.1"
