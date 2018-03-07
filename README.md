@@ -1,5 +1,5 @@
 
-# react-native-net-request
+# react-native-net-request (WIP)
 
 ## Getting started
 
@@ -34,16 +34,7 @@
       compile project(':react-native-net-request')
   	```
 
-#### Windows
-[Read it! :D](https://github.com/ReactWindows/react-native)
-
-1. In Visual Studio add the `RNNetRequest.sln` in `node_modules/react-native-net-request/windows/RNNetRequest.sln` folder to their solution, reference from their app.
-2. Open up your `MainPage.cs` app
-  - Add `using Net.Request.RNNetRequest;` to the usings at the top of the file
-  - Add `new RNNetRequestPackage()` to the `List<IReactPackage>` returned by the `Packages` method
-
-
-## Usage
+## Usage (WIP)
 ```javascript
 import RNNetRequest from 'react-native-net-request';
 
