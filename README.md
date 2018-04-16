@@ -1,6 +1,8 @@
 
 # native-fetch (WIP)
+## Note
 
+I am currently designing the functionality and initial interfacing. The current code has all being testing different approaches to achieve my goal of a native solution to fetch for react native. 
 ## Getting started
 
 `$ npm install native-fetch --save`
